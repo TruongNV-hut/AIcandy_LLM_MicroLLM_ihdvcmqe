@@ -1,0 +1,9 @@
+torch torchvision torchaudio
+pandas
+matplotlib
+scikit-learn
+pillow
+peft
+bitsandbytes
+safetensors
+numpy
